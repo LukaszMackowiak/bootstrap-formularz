@@ -1,0 +1,34 @@
+header {
+    color: rgb(61, 90, 255);
+    background-color: rgb(158, 203, 255);
+    margin-top: 20px;
+    margin-bottom: 10px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+aside {
+    background-color: rgb(158, 203, 255);
+    margin: 20 px;
+    padding: 20px;
+}
+
+footer {
+    background-color: rgb(158, 203, 255);
+    margin-top: 20px;
+    color: rgb(87, 98, 253);
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+h2 {
+    color: rgb(41, 98, 255);
+    border-bottom: 1px solid rgb(49, 128, 255);
+}
+
+button {
+    background-color: rgb(30, 101, 255);
+    color: white;
+    border: 8px solid rgb(30, 101, 255);
+    
+}
